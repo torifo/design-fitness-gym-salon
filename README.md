@@ -56,4 +56,7 @@ python3 -m http.server 8080
 
 ## Deployment
 
-GitHub Pages + Cloudflare DNS で `design.fitness-gym-salon.riumu.net` に公開。
+GitHub Pages にて公開済（HTTPS 強制 ON、Let's Encrypt 証明書 approved）。
+
+- **Live**: <https://design.fitness-gym-salon.riumu.net/>
+- **Repo**: <https://github.com/torifo/design-fitness-gym-salon>
